@@ -38,6 +38,7 @@
 #define MT7615_FIRMWARE_N9		"mediatek/mt7615_n9.bin"
 #define MT7615_ROM_PATCH		"mediatek/mt7615_rom_patch.bin"
 
+#define MT7622_FIRMWARE_E2		"mediatek/mt7622_e2.bin"
 #define MT7622_FIRMWARE_N9		"mediatek/mt7622_n9.bin"
 #define MT7622_ROM_PATCH		"mediatek/mt7622_rom_patch.bin"
 

@@ -1471,7 +1471,7 @@ static int mt7622_load_firmware(struct mt7615_dev *dev)
 	if (ret)
 		return ret;
 
-	ret = mt7615_load_n9(dev, MT7622_FIRMWARE_N9);
+	ret = mt7615_load_n9(dev, MT7622_FIRMWARE_E2);
 	if (ret)
 		return ret;
 
